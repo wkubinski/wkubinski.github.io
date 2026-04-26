@@ -1,2 +1,5 @@
 # wkubinski.github.io
-personal website
+Wojciech Kubinski, PhD
+
+# Education
+Dec. 2024: PhD in Physics
