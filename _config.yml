@@ -1,3 +1,21 @@
 theme: jekyll-theme-minimal
-title: Wojciech Kubinski's homepage
-description: Personal website
+
+title: Wojciech Kubinski, PhD
+description: Nuclear Physicist | Reactor Physics | Optimization | Machine Learning | Radiation Transport
+
+# logo: /assets/img/profile.jpg   # optional if you add a photo
+
+show_downloads: false
+
+github:
+  is_project_page: false
+
+author:
+  name: Wojciech Kubinski
+  email: w.r.kubinski@gmail.com
+  location: Oxford, United Kingdom
+
+plugins:
+  - jekyll-seo-tag
+
+markdown: kramdown
