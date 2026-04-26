@@ -1,4 +1,3 @@
-# Wojciech Kubinski
 
 Nuclear physicist working in reactor physics, neutronics, activation analysis and computational methods for nuclear engineering.
 
