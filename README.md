@@ -77,7 +77,7 @@ Annals of Nuclear Energy (2025)
 *Shannon Entropy Analysis of a Nuclear Fuel Pin Under Deep Burnup*  
 Entropy (2024)
 
-Google Scholar: [Scholar Profile](https://scholar.google.com)
+More: [Google Scholar Profile](https://scholar.google.com/citations?user=i8AtVDYAAAAJ&hl=pl))
 
 ---
 
@@ -105,5 +105,4 @@ Monte Carlo, Optimization, Genetic Algorithms, Machine Learning
 ## Contact
 
 Email: w.r.kubinski@gmail.com  
-GitHub: https://github.com/yourusername  
-Google Scholar: (add link)  
+
