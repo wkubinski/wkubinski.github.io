@@ -76,7 +76,7 @@ Annals of Nuclear Energy (2025)
 *Shannon Entropy Analysis of a Nuclear Fuel Pin Under Deep Burnup*  
 Entropy (2024)
 
-More: [Google Scholar Profile](https://scholar.google.com/citations?user=i8AtVDYAAAAJ&hl=pl))
+More on [Google Scholar Profile](https://scholar.google.com/citations?user=i8AtVDYAAAAJ&hl=pl)
 
 ---
 
