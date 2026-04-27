@@ -1,6 +1,21 @@
 theme: jekyll-theme-minimal
 
-header_pages:
- - research.md
- - publications.md
- - contact.md
+title: W. Kubinski
+description: Nuclear Physics | Reactor Physics | Optimization | Machine Learning | Radiation Transport | Activation Analysis
+
+logo: wkubinski.jpg
+
+show_downloads: false
+
+github:
+  is_project_page: false
+
+author:
+  name: Wojciech Kubinski
+  email: w.r.kubinski@gmail.com
+  location: Oxford, United Kingdom
+
+plugins:
+  - jekyll-seo-tag
+
+markdown: kramdown
