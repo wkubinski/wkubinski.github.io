@@ -133,7 +133,7 @@ More on [Google Scholar Profile](https://scholar.google.com/citations?user=i8AtV
 
 ---
 
-## Selected Projects
+## Projects
 - *Application of Machine Learning Method for the Optimization of a PWR reactor core campaign*, BEYOND POB II (IDUB programme, grant no. 1820/370/Z01/2022), 2022–2023  
   Principal Investigator 
 
