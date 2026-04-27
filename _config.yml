@@ -1,12 +1,13 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 
-title: Wojciech Kubinski
-description: Nuclear Physics | Reactor Optimization | Machine Learning
+title: W. Kubinski
+description: Reactor Physics | Optimization | Machine Learning
 
+logo: wkubinski.jpg
+
+show_downloads: false
 github:
   is_project_page: false
 
 plugins:
-  - jekyll-seo-tag
-
-markdown: kramdown
+ - jekyll-seo-tag
