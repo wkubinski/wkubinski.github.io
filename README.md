@@ -131,7 +131,7 @@ More on [Google Scholar Profile](https://scholar.google.com/citations?user=i8AtV
   CHANCE Topical Day, Mechelen, Belgium (March 2019)
 
 - *Radiation Leakage and the Precision of Characterizing Nuclear Material Using Calorimetric Assay*  
-  Waste Management Symposium, Phoenix, USA (March 2019) — Superior Award
+  Waste Management Symposium, Phoenix, USA (March 2019)
   
 ## Contact
 
