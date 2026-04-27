@@ -58,10 +58,6 @@ United Kingdom Atomic Energy Authority (UKAEA), Culham, UK
   Kubiński, W.; Bojarski, P.; Darnowski, P.  
   *Gates Open Research* (2021)
 
-- Calorimetric non-destructive assay of large volume and heterogeneous radioactive waste drums  
-  Kubinski, W.R.; Carasco, C.; Kikola, D.; et al.  
-  *EPJ Web of Conferences* 225, 6003 (2020)
-
 
 ### Conference Proceedings
 
@@ -84,6 +80,10 @@ United Kingdom Atomic Energy Authority (UKAEA), Culham, UK
 - Optimization of BEAVRS PWR Loading Pattern Using a Novel Genetic Algorithm Based on Population Variance Control  
   Kubiński, W.; Darnowski, P.; Chęć, K.  
   *Nuclear Energy for New Europe* (2020)
+
+- Calorimetric non-destructive assay of large volume and heterogeneous radioactive waste drums  
+  Kubinski, W.R.; Carasco, C.; Kikola, D.; et al.  
+  *EPJ Web of Conferences* 225, 6003 (2020)
 
 - Radiation Leakage and the Precision of Characterizing Nuclear Material Using Calorimetric Assay-19233  
   Kubinski, W.R.; Kikola, D.; Tefelski, D.; et al.  
