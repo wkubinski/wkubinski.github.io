@@ -133,6 +133,19 @@ More on [Google Scholar Profile](https://scholar.google.com/citations?user=i8AtV
 
 ---
 
+## Selected Projects
+
+- **Machine Learning for PWR Core Optimization, BEYOND POB II* (IDUB programme, grant no. 1820/370/Z01/2022)** 
+  Principal Investigator (2022–2023)  
+
+- **CHANCE (CHAracterisation of coNditioned nuclear waste for its safe disposal in Europe, Horizon 2020, grant no. 755371)** 
+  Investigator (2017–2022)  
+
+- **PUMA (antiProton Unstable Matter Annihilation, Horizon 2020, grant no. 726276)**
+  Investigator (2019, internship)
+
+---
+
 ## Peer Review Activities
 
 Reviewer for:
