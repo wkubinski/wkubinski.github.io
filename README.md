@@ -131,14 +131,15 @@ More on [Google Scholar Profile](https://scholar.google.com/citations?user=i8AtV
 - *Radiation Leakage and the Precision of Characterizing Nuclear Material Using Calorimetric Assay*  
   Waste Management Symposium, Phoenix, USA (March 2019)
 
+---
 
-## Peer Review
+## Peer Review Activities
 
 Reviewer for:
 
-- Nuclear Technology
 - Progress in Nuclear Energy
 - Energies
+- Nuclear Technology
 - International Journal of Advanced Nuclear Reactor Design and Technology
 - Nuclear Energy for New Europe (NENE)
   
