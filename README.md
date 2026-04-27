@@ -140,7 +140,7 @@ More on [Google Scholar Profile](https://scholar.google.com/citations?user=i8AtV
 - CHANCE (*Characterisation of Conditioned Nuclear Waste for its Safe Disposal in Europe*, Horizon 2020, grant no. 755371), 2017–2022  
   Investigator 
 
-- PUMA (antiProton Unstable Matter Annihilation, Horizon 2020, grant no. 726276), 2019  
+- PUMA (*antiProton Unstable Matter Annihilation*, Horizon 2020, grant no. 726276), 2019  
   Investigator (internship)  
 
 ---
