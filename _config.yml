@@ -1,13 +1,6 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 
-title: W. Kubinski
-description: Nuclear Physics | Reactor Physics | Optimization | Machine Learning | Radiation Transport | Activation Analysis
-
-logo: wkubinski.jpg
-
-show_downloads: false
-github:
-  is_project_page: false
-
-plugins:
- - jekyll-seo-tag
+header_pages:
+ - research.md
+ - publications.md
+ - contact.md
