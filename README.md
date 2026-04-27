@@ -95,8 +95,6 @@ More on [Google Scholar Profile](https://scholar.google.com/citations?user=i8AtV
 
 ## Oral Presentations
 
-## Selected Presentations
-
 - *Optimisation of Irradiation Schemes for Radioisotope Production in the MARIA Reactor*  
   PHYSOR Conference, Turin, Italy (2026)
 
