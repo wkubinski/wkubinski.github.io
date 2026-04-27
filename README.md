@@ -93,38 +93,43 @@ More on [Google Scholar Profile](https://scholar.google.com/citations?user=i8AtV
 
 ---
 
-## Presentations
+## Oral Presentations
 
-- Radiation Leakage and the Precision of Characterizing Nuclear Material Using Calorimetric Assay  
+- *Radiation Leakage and the Precision of Characterizing Nuclear Material Using Calorimetric Assay*  
   Waste Management Symposium, Phoenix, USA (2019) — Superior Award
 
-- Modelling of the CHANCE calorimeter and some general thoughts about NDA uncertainty quantification  
+- *Modelling of the CHANCE calorimeter and some general thoughts about NDA uncertainty quantification*  
   CHANCE Topical Day, Mechelen, Belgium (2019)
 
-- Calorimetric Non-Destructive Assay of Large Volume and Heterogeneous Radioactive Waste Drums  
+- *Calorimetric Non-Destructive Assay of Large Volume and Heterogeneous Radioactive Waste Drums*  
   ANIMMA Conference, Portorož, Slovenia (2019)
 
-- Optimization of BEAVRS PWR Loading Pattern Using a Novel Genetic Algorithm Based on Population Variance Control  
+- *Optimization of BEAVRS PWR Loading Pattern Using a Novel Genetic Algorithm Based on Population Variance Control*  
   Nuclear Energy for New Europe (NENE), Portorož, Slovenia (2020)
 
-- Uncertainty of radioactive waste characterization using calorimetry combined with gamma spectrometry — numerical case study (Poster)  
+- *Uncertainty of radioactive waste characterization using calorimetry combined with gamma spectrometry — numerical case study* (Poster)  
   Nuclear Energy for New Europe (NENE), Portorož, Slovenia (2020)
 
-- Optimization of the Loading Pattern of the PWR Reactor Core Using Genetic Algorithms and Multi-Purpose Fitness Function  
+- *Optimization of the Loading Pattern of the PWR Reactor Core Using Genetic Algorithms and Multi-Purpose Fitness Function*  
   NuTech, Warsaw, Poland (2020)
 
-- Application of an Artificial Neural Network to Support the Design of the PWR Reactor Core Configuration  
+- *Application of an Artificial Neural Network to Support the Design of the PWR Reactor Core Configuration*  
   Nuclear Energy for New Europe (NENE), Portorož, Slovenia (2021)
 
-- Application of the Artificial Neural Network and Particle Swarm Optimization in Determining Selected Parameters of the Nuclear Reactor Core  
+- *Application of the Artificial Neural Network and Particle Swarm Optimization in Determining Selected Parameters of the Nuclear Reactor Core*  
   European Nuclear Young Generation Forum (ENYGF), Tarragona, Spain (2021)
 
-- Application of the Artificial Neural Network for Determining the Parameters of the PWR Reactor  
+- *Application of the Artificial Neural Network for Determining the Parameters of the PWR Reactor*  
   RDPE, Warsaw, Poland (2021)
 
-- Prediction of Nuclear Reactor Core Parameters Using Artificial Neural Network  
+- *Prediction of Nuclear Reactor Core Parameters Using Artificial Neural Network*  
   PHYSOR Conference, Pittsburgh, USA (2022)
 
+- *Parallel Simulated Annealing, Genetic Algorithms, and Hybrid Method Applied to the Multiobjective Optimization of the Nuclear In-Core Fuel Management*  
+  PHYSOR Conference, San Francisco, USA (2024)
+
+- *Optimisation of Irradiation Schemes for Radioisotope Production in the MARIA Reactor*  
+  PHYSOR Conference, Turin, Italy (2026)
 ## Contact
 
 Email: w.r.kubinski@gmail.com  
