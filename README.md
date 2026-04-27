@@ -141,7 +141,7 @@ Reviewer for:
 - Energies
 - Nuclear Technology
 - International Journal of Advanced Nuclear Reactor Design and Technology
-- Nuclear Energy for New Europe (NENE)
+- Nuclear Energy for New Europe (Conference)
 
 ---
   
