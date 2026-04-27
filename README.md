@@ -134,7 +134,7 @@ More on [Google Scholar Profile](https://scholar.google.com/citations?user=i8AtV
 ---
 
 ## Selected Projects
-- *Machine Learning for PWR Core Optimization*, BEYOND POB II (IDUB programme, grant no. 1820/370/Z01/2022)
+- *Application of Machine Learning Method for the Optimization of a PWR reactor core campaign*, BEYOND POB II (IDUB programme, grant no. 1820/370/Z01/2022)
   Principal Investigator (2022–2023)  
 
 - CHANCE (*Characterisation of Conditioned Nuclear Waste for its Safe Disposal in Europe*, Horizon 2020, grant no. 755371)
