@@ -63,11 +63,11 @@ United Kingdom Atomic Energy Authority (UKAEA), Culham, UK
 
 - Optimisation of Irradiation Schemes for Radioisotope Production in the MARIA Reactor  
   Kubinski, W.; Prokopowicz, R.  
-  *PHYSOR 2022 Proceedings* (2026)
+  *PHYSOR 2026 Proceedings* (2026)
 
 - Parallel Simulated Annealing, Genetic Algorithms and Hybrid Method Applied to the Multiobjective Optimization of the Nuclear In-Core Fuel Management  
   Kubiński, W.; Giorgi, G.; Segond, M.  
-  *PHYSOR 2022 Proceedings* (2024)
+  *PHYSOR 2024 Proceedings* (2024)
 
 - Prediction of nuclear reactor core parameters using artificial neural network  
   Kubinski, W.; Darnowski, P.; Palmi, K.  
