@@ -61,17 +61,17 @@ United Kingdom Atomic Energy Authority (UKAEA), Culham, UK
 
 ### Conference Proceedings
 
-- Parallel Simulated Annealing, Genetic Algorithms and Hybrid Method applied to the Multiobjective Optimization of the Nuclear In-Core Fuel Management  
-  Kubinski, W.; Giorgi, G.; Segond, M.  
-  Conference contribution (2024)
+- Optimisation of Irradiation Schemes for Radioisotope Production in the MARIA Reactor  
+  Kubinski, W.; Prokopowicz, R.  
+  *PHYSOR 2022 Proceedings* (2026)
 
-- Multiobjective Optimization of Nuclear Fuel Multi-Cycle Management Using Genetic Algorithms and Parallel Simulated Annealing  
+- Parallel Simulated Annealing, Genetic Algorithms and Hybrid Method Applied to the Multiobjective Optimization of the Nuclear In-Core Fuel Management  
   Kubiński, W.; Giorgi, G.; Segond, M.  
-  Conference contribution (2023)
+  *PHYSOR 2022 Proceedings* (2024)
 
 - Prediction of nuclear reactor core parameters using artificial neural network  
   Kubinski, W.; Darnowski, P.; Palmi, K.  
-  *PHYSOR 2022 Proceedings*, pp. 2742–2749 (2022)
+  *PHYSOR 2022 Proceedings* (2022)
 
 - Development of the MATLAB Tool for Optimization of the Nuclear Hybrid Energy System Dedicated for Hydrogen Production  
   Darnowski, P.; Kubiński, W.  
