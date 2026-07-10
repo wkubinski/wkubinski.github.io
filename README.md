@@ -150,10 +150,11 @@ More on [Google Scholar Profile](https://scholar.google.com/citations?user=i8AtV
 Reviewer for:
 
 - Progress in Nuclear Energy
+- Annals of Nuclear Energy
 - Energies
 - Nuclear Technology
+- Nuclear Science and Technology
 - International Journal of Advanced Nuclear Reactor Design and Technology
-- Nuclear Energy for New Europe (Conference)
 
 ---
   
