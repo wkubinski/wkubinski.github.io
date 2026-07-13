@@ -151,6 +151,7 @@ Reviewer for:
 
 - Progress in Nuclear Energy
 - Annals of Nuclear Energy
+- Nuclear Science and Engineering
 - Energies
 - Nuclear Technology
 - Nuclear Science and Technology
