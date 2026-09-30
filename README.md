@@ -134,6 +134,9 @@ More on [Google Scholar Profile](https://scholar.google.com/citations?user=i8AtV
 ---
 
 ## Projects
+- *Assessment of the Physical Consistency of Artificial Intelligence Models in Nuclear Science Using OECD NEA Benchmark Data*, MINIATURA 10, Polish National Science Centre, 2026
+  Principal Investigator  
+
 - *Application of Machine Learning Method for the Optimization of a PWR reactor core campaign*, BEYOND POB II (IDUB programme, grant no. 1820/370/Z01/2022), 2022–2023  
   Principal Investigator 
 
