@@ -23,7 +23,7 @@ United Kingdom Atomic Energy Authority (UKAEA), Culham, UK
 ### Journal Articles
 
 - Advanced computational methodologies for water activation assessment and applications to JET  
-  Berry T., Chohan H., Grove C., Kubinski W., et al.
+  Berry T., Chohan H., Grove C., Kubinski W., et al.  
   *Plasma Physics and Controlled Fusion* (2026)
 
 - Optimization of the cost and efficiency of Mo-99 production in the MARIA reactor  
